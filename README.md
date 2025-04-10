@@ -64,8 +64,6 @@ Accurately predict the selling price of used cars using features such as year, b
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/car-price-prediction.git
-   ```
 2. Navigate to the folder:
    ```
    cd car-price-prediction
